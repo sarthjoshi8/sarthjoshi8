@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sarth Hemant Joshi
 
-🎓 **3rd-year B.Tech Student** at [Vellore Institute of Technology (VIT), Vellore]  
+🎓 **Final year B.Tech Student** at [Vellore Institute of Technology (VIT), Vellore]  
 💡 Passionate about **Web Development**, **AI**, and **Entrepreneurship**  
 🚀 Member of **E-Cell VIT** and **Yuva Marathi Club**  
 🎸 Music lover & Guitarist | ⚽ Sports Enthusiast | 💼 Aspiring Tech Innovator  
